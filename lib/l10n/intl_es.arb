@@ -1,0 +1,13 @@
+{
+  "noConection":"No conexion",
+  "titleLogin":"Pragma Inicio sesión con Auth0",
+  "welcome":"Bievenido",
+  "yes":"Si",
+  "not":"No",
+  "name":"Nombre",
+  "email":"Correo",
+  "emailVerified":"Correo verificado",
+  "updatedAt":"Actualizada",
+  "logIn":"Iniciar sesión",
+  "logOut":"Cerrar sesión"
+}

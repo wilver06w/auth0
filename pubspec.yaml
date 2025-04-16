@@ -1,0 +1,54 @@
+name: auth0
+description: "Project implement login with auth0"
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.4.3 <4.0.0'
+
+dependencies:
+  flutter_localizations:
+    sdk: flutter
+  flutter:
+    sdk: flutter
+  flutter_dotenv: ^5.1.0
+  google_fonts: ^6.2.1
+  cupertino_icons: ^1.0.8
+  auth0_flutter: ^1.7.2
+  flutter_modular: ^6.3.4
+  bloc: ^8.1.4
+  flutter_bloc: ^8.1.6
+  provider: ^6.1.2
+  equatable: ^2.0.5
+  dartz: ^0.10.1
+  package_info_plus: ^8.0.0
+  dart_ipify: ^1.1.1
+  oktoast: ^3.4.0
+  intl: ^0.19.0
+  connectivity_plus: ^6.0.3
+  internet_connection_checker: ^1.0.0+1
+  gap: ^3.0.1
+  flutter_svg: ^2.0.10+1
+  lottie: ^3.1.1
+  flutter_launcher_icons: ^0.14.3
+
+flutter_intl:
+  main_locale: es
+  enabled: true
+
+dev_dependencies:
+  build_runner: ^2.4.11
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+  mockito: ^5.4.4
+  test: ^1.25.2
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - .env
+    - images/
+    - images/animations/
