@@ -26,8 +26,6 @@
   </a>
 </p>
 
-Redacta aquí una breve descripción del proyecto...
-
 <p align="center">
   <a href="#topicos">Tópicos</a> •
   <a href="#tecnologias">Tecnologías</a> •
