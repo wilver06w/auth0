@@ -75,7 +75,7 @@ AUTH0_CLIENT_ID=your-client-id
 Para clonar esta aplicación desde la línea de comandos:
 
 ```bash
-git clone https://github.com/yourusername/auth0.git
+git clone https://github.com/wilver06w/auth0.git
 cd auth0
 git remote remove origin
 git remote add origin URL_DE_TU_NUEVO_REPOSITORIO
