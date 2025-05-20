@@ -134,14 +134,6 @@ lib/
   * internet\_connection\_checker: ^1.0.0+1
   * oktoast: ^3.4.0
 
-## Testing
-
-Ejecutar pruebas:
-
-```bash
-flutter test
-```
-
 ## Autores
 
 | [<img src="https://github.com/wilver06w.png" width=115><br><sub>Wilver Rojas</sub>](https://github.com/wilver06w) |
