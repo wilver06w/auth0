@@ -144,8 +144,8 @@ flutter test
 
 ## Autores
 
-| [<img src="https://avatars.githubusercontent.com/u/yourusername" width=115><br><sub>Tu Nombre</sub>](https://github.com/yourusername) |
-| :-----------------------------------------------------------------------------------------------------------------------------------: |
+| [<img src="https://github.com/wilver06w.png" width=115><br><sub>Wilver Rojas</sub>](https://github.com/wilver06w) |
+|:-------------------------------------------------------------------------------------------------------------------:|
 
 ## Relacionados
 
