@@ -39,7 +39,9 @@ Redacta aquí una breve descripción del proyecto...
   <a href="#roadmap">Roadmap</a>
 </p>
 
-![screenshot](demo/demo.gif)
+<p align="center">
+  <img src="demo/demo.gif" alt="Demo de la aplicación">
+</p>
 
 ## Tópicos
 
