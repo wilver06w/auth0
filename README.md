@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://auth0.com/"><img src="https://cdn.auth0.com/styleguide/latest/lib/logos/img/logo-blue.png" width="200"></a>
+  <a href="https://flutter.dev/"><img src="https://storage.googleapis.com/cms-storage-bucket/6e19fee6b47b36ca613f.png" width="200"></a>
   <br>
   Integración Auth0 Flutter
   <br>
